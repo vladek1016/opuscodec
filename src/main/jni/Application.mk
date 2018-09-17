@@ -1,1 +1,3 @@
 include $(BUILD_SHARED_LIBRARY)
+
+APP_SHORT_COMMANDS := true
